@@ -1,4 +1,4 @@
 *.sqlite3
 .idea/
 venv/
-__pycharm__/
+__pycache__/
